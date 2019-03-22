@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ##
 
-This is a react Aplicattion that demostrates how react-Routers work.
+This is a react Applicattion that demostrates how react-Routers work.
 The main purpose of this application is to use reactCSSTransition group
 to create a transition animation when switching from one end-point to
 the orther.
