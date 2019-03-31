@@ -1,2 +1,2 @@
-# I am tring to using ReactRouteTransition.
+# I am learning how to use ReactRouteTransition.
 # Still working on it.
